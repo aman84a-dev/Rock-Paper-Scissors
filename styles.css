@@ -2,7 +2,6 @@
     margin: 0;
     padding: 0;
     text-align: center;
-    background-color: bisque;
 }
 h1{
     background-color: #081b31;
@@ -66,4 +65,5 @@ img{
     display: inline;
     padding: 1rem;
     border-radius: 1rem;
+
 }
